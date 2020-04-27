@@ -31,4 +31,5 @@ def return_string_array(array)
     new_arr.push(new_str)
   counter += 1;
 end
+return new_arr
 end
